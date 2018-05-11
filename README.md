@@ -5,7 +5,7 @@ This is a source code of submission to the PACE 2018 competition, made by the te
 The source code is written in `AntColony.cpp`.
 
 ### Algorithm 
-Track 3 : implementation uses two metaheuristics of Ant Colony Optimization. 
+Track 3 : implementation uses metaheuristics of Ant Colony Optimization. 
 
 ### Compile
 CMakeLists.txt  
