@@ -2,8 +2,12 @@
 
 This is a source code of submission to the PACE 2018 competition, made by the team of harulabo in Japan. It contains our solutions for Track 3 task.
 
-The source code is written in `anttt.cpp`.
+The source code is written in `AntColony.cpp`.
 
 ### Algorithm 
 Track 3 : implementation uses two metaheuristics of Ant Colony Optimization. 
+
+### Compile
+CMakeLists.txt  
+
 
